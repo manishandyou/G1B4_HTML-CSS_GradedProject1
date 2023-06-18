@@ -157,7 +157,12 @@ section p {
 
 section h1 {
   text-align: left;
+  padding-left: 10px;
+}
 
+section h2 {
+  text-align: left;
+  font-size: large;
 }
 
 #covid-care,
@@ -199,7 +204,7 @@ div {
   background-color: rgb(212, 235, 243);
   border: 1px solid steelblue;
   border-radius: 5px;
-  width: 90%;
+  width: 95%;
   padding: 2%;
   font-weight: bold;
   cursor: pointer;
